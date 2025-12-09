@@ -116,7 +116,7 @@ style: formatar prints e identação
 
 ---
 
-## 🏷️ Badges (opcionais, mas deixam bonito)
+## 🏷️ Badges 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)
